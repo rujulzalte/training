@@ -1,5 +1,7 @@
 def func1():
-    pass
+    print("hello world")
+    print("this is function 1")
+    
 def func2():
     pass
 

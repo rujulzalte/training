@@ -3,7 +3,7 @@ def func1():
     print("this is function 1")
     
 def func2():
-    pass
+    print("this is function 2")
 
 if __name__ == "__main__":
     func1()

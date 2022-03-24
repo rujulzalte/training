@@ -4,6 +4,7 @@ def func1():
     
 def func2():
     print("this is function 2")
+    print("This is testing")
 
 if __name__ == "__main__":
     func1()
